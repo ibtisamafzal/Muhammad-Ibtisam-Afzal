@@ -1,4 +1,3 @@
-![logo](https://github.com/ibtisamafzal/Muhammad-Ibtisam-Afzal/blob/main/Github%20Banner.png)
 <h1 align="center">Hello 👋, I'm Muhammad Ibtisam Afzal</h1>
 <h3 align="center">A passionate Computer Science Student from Pakistan 🇵🇰</h3>
 
@@ -8,21 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/ibtisam__ch" target="blank"><img src="https://img.shields.io/twitter/follow/ibtisam__ch?logo=twitter&style=for-the-badge" alt="@ibtisam__ch" /></a> </p>
 
-- 🎓 I’m currently Studying **Bachelors of Computer Science**
-
-- 💻 I'm currently Learning **C++**
+- 🎓 I’m currently Studying **BS Computer Science**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ibtisamafzal/](https://www.linkedin.com/in/ibtisamafzal/)
 
-- 📝 I regularly write articles on [https://mathclinicpk.wordpress.com](https://mathclinicpk.wordpress.com)
-
-- 💬 Ask me about **C, C++, Python**
-
-- 📫 How to reach me **chaudhryibtisam2003@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ix0Tt0n3VTHDEW3YlLWAGHE4zWGFnQ6J/view?usp=share_link](https://drive.google.com/file/d/1Ix0Tt0n3VTHDEW3YlLWAGHE4zWGFnQ6J/view?usp=share_link)
-
-- ⚡ Fun fact **I think I can do Anything!!!**
+- 💬 Ask me about **C++, Java, SQL Databases**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibtisamafzal" alt="ibtisamafzal" /></a> </p>
 <h3 align="left">Connect with me:</h3>
